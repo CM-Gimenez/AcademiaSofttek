@@ -25,6 +25,8 @@ public class ActividadM1 {
 
     //funcion que suma dos numeros aleatorios
     public void suma() {
+        System.out.println("Vamos a sumar dos números");
+        
         //le pedimos al usuario que ingrese los numeros a sumar
         System.out.println("Ingrese el primer número: ");
         numeroUno = scann.nextInt();
